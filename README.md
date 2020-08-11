@@ -8,6 +8,11 @@ statistics recorded for each player in each year include service game (offensive
 I used the scitkitlearn library with Python to train the dataset, provide regression modelling based on some features and outcomes which
 I found interesting. 
 
+Through this exercise, I practised how to the scikitlearn library and train existing models.
+A new skill picked up was scoring models, and splitting dataset quickly with a function in sklearn. 
+
 The repo consists of the file analysing dataset, training models and graphing the result of such models. 
 
 The sample results are included as png files.
+
+# If you have any feedback, please leave a comment! 
