@@ -14,5 +14,4 @@ A new skill picked up was scoring models, and splitting dataset quickly with a f
 The repo consists of the file analysing dataset, training models and graphing the result of such models. 
 
 The sample results are included as png files.
-
-# If you have any feedback, please leave a comment! 
+If you have any feedback, please leave a comment! 
